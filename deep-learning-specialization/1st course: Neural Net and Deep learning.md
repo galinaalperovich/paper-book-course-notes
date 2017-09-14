@@ -2,7 +2,7 @@
 
 Link to the course: https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
 
-Key points:
+### Key points:
 
 * Logistic regression is the simplest neural net with one layer and one neuron with sigmoid activation function
 
