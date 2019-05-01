@@ -25,6 +25,9 @@ Creating a neural net is a highly iterative process, and you need several iterat
 and realize where to move further with your experiments. 
 
 ### Bias/Variance ratio
+* The **bias** is an error from incorrect assumptions in the learning algorithm. High bias can cause an algorithm to miss the relevant relations between features and target outputs (underfitting).
+* The **variance** is an error from sensitivity to small fluctuations in the training set. High variance can cause an algorithm to model the random noise in the training data, rather than the intended outputs (overfitting).
+
 * How to determine if you have problems with bias/variance: 
   1. train error is low, dev error is high 
   -> overfitting -> high variance 
